@@ -1,0 +1,20 @@
+[
+  {
+    "name": "react18-webpack-sub",
+    "entry": "//localhost:60533",
+    "container": "#subapp-container",
+    "activeRule": "/react18-webpack-sub"
+  },
+  {
+    "name": "react16-webpack-sub",
+    "entry": "//localhost:58612",
+    "container": "#subapp-container",
+    "activeRule": "/react16-webpack-sub"
+  },
+  {
+    "name": "vue3-webpack-sub",
+    "entry": "//localhost:33577",
+    "container": "#subapp-container",
+    "activeRule": "/vue3-webpack-sub"
+  }
+]
